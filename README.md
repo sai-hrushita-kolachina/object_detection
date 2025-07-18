@@ -24,7 +24,7 @@ This project demonstrates real-time object detection using **YOLOv8 (You Only Lo
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/yolov8-object-detection.git
+git clone https://github.com/sai-hrushita-kolachina/object_detection.git
 cd yolov8-object-detection
 pip install ultralytics opencv-python
 pyhton objectdetection.py
